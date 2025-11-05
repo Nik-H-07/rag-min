@@ -1,0 +1,10 @@
+faiss-cpu
+numpy
+tqdm
+pypdf
+sentence-transformers
+langchain-text-splitters
+openai>=1.30.0
+python-dotenv
+rich
+docx2txt
